@@ -49,6 +49,8 @@ Follow these steps to set up the project:
 4. Update `.env` file with necessary configurations.
 5. Start the server using `npm start`.
 
+![mongo img](./Public/assets/images/socialnetwork-img.PNG)
+
 ## Technologies Used
 
 - Node.js
